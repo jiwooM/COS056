@@ -1,0 +1,15 @@
+{
+    "_index": "_index",
+    "column-order": [
+        "SCT_snn_res.0.3",
+        "SCT_snn_res.0.3",
+        "SCT_snn_res.0.5",
+        "SCT_snn_res.0.7",
+        "SCT_snn_res.1",
+        "celltype_anchor",
+        "celltype_marker",
+        "celltype_reference"
+    ],
+    "encoding-type": "dataframe",
+    "encoding-version": "0.2.0"
+}
